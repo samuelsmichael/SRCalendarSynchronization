@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SRCalendarSynchronizer">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Mike Samuels\My Documents\Visual Studio 2008\Projects\SRCalendarSynchronizer\SRCalendarSynchronizer.sln">
+</Property><Property Name="Date" Value="Tuesday, December 16, 2014">
+</Property><Property Name="Time" Value="19:54:29 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CommonServerSide" Source="D:\Documents and Settings\Owner\My Documents\Visual Studio 2005\Projects\UtilityRecruiter\UtilityRecruiter\CommonServerSide.cs\CommonServerSide.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CommonServerSide" Source="D:\Documents and Settings\Owner\My Documents\Visual Studio 2005\Projects\UtilityRecruiter\UtilityRecruiter\CommonServerSide.cs\CommonServerSide.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CommonServerSide" Source="D:\Documents and Settings\Owner\My Documents\Visual Studio 2005\Projects\UtilityRecruiter\UtilityRecruiter\CommonServerSide.cs\CommonServerSide.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

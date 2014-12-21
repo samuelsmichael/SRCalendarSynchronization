@@ -1,0 +1,22 @@
+<publishData>
+  <publishTarget publishUrl="C:\Inetpub\wwwroot\SRCalendarSynchronizationControl\">
+    <file relUrl="bin/Common.pdb" publishTime="12/20/2014 16:51:23" />
+    <file relUrl="bin/SRCalendarSynchronizationWebControl.dll" publishTime="12/20/2014 17:06:01" />
+    <file relUrl="bin/SRCalendarSynchronizationWebControl.pdb" publishTime="12/20/2014 17:06:01" />
+    <file relUrl="Web.config" publishTime="12/19/2014 18:43:16" />
+    <file relUrl="Default.aspx" publishTime="12/19/2014 18:49:15" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="05/07/2008 12:26:42" />
+    <file relUrl="bin/Common.dll" publishTime="12/20/2014 16:51:23" />
+    <file relUrl="Controller.aspx" publishTime="12/19/2014 20:07:31" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Inetpub\wwwroot\">
+    <file relUrl="bin/Common.pdb" publishTime="12/19/2014 19:27:49" />
+    <file relUrl="bin/SRCalendarSynchronizationWebControl.dll" publishTime="12/19/2014 20:06:17" />
+    <file relUrl="bin/SRCalendarSynchronizationWebControl.pdb" publishTime="12/19/2014 20:06:17" />
+    <file relUrl="Web.config" publishTime="12/19/2014 18:43:16" />
+    <file relUrl="Default.aspx" publishTime="12/19/2014 18:49:15" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="05/07/2008 12:26:42" />
+    <file relUrl="bin/Common.dll" publishTime="12/19/2014 19:27:49" />
+    <file relUrl="Controller.aspx" publishTime="12/19/2014 20:07:31" />
+  </publishTarget>
+</publishData>

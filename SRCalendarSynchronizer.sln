@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRCalendarSynchronizerApp", "SRCalendarSynchronizerApp\SRCalendarSynchronizerApp.csproj", "{1D66E22F-DFD6-41CE-B79B-1684C4B4EF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{47327D66-457D-443B-814F-A9987822E670}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DeployCalendarSynchronizer", "DeployCalendarSynchronizer\DeployCalendarSynchronizer.vdproj", "{D12B6F36-DBCC-4340-AEF0-A35A1B0B1992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRCalendarSynchronizationWebControl", "SRCalendarSynchronizationWebControl\SRCalendarSynchronizationWebControl.csproj", "{8CACA516-FAD7-471A-BC47-1686816CFAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRCalSynchWindowsService", "SRCalSynchWindowsService\SRCalSynchWindowsService.csproj", "{A0F43180-F7DF-4C53-8907-9076BEB30834}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DeployCalSynchWindowsService", "DeployCalSynchWindowsService\DeployCalSynchWindowsService.vdproj", "{32F27F8E-64DA-40F8-881C-16008540D810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D66E22F-DFD6-41CE-B79B-1684C4B4EF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D66E22F-DFD6-41CE-B79B-1684C4B4EF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D66E22F-DFD6-41CE-B79B-1684C4B4EF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D66E22F-DFD6-41CE-B79B-1684C4B4EF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47327D66-457D-443B-814F-A9987822E670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47327D66-457D-443B-814F-A9987822E670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47327D66-457D-443B-814F-A9987822E670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47327D66-457D-443B-814F-A9987822E670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12B6F36-DBCC-4340-AEF0-A35A1B0B1992}.Debug|Any CPU.ActiveCfg = Debug
+		{D12B6F36-DBCC-4340-AEF0-A35A1B0B1992}.Release|Any CPU.ActiveCfg = Release
+		{8CACA516-FAD7-471A-BC47-1686816CFAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CACA516-FAD7-471A-BC47-1686816CFAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CACA516-FAD7-471A-BC47-1686816CFAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CACA516-FAD7-471A-BC47-1686816CFAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F43180-F7DF-4C53-8907-9076BEB30834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F43180-F7DF-4C53-8907-9076BEB30834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F43180-F7DF-4C53-8907-9076BEB30834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F43180-F7DF-4C53-8907-9076BEB30834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F27F8E-64DA-40F8-881C-16008540D810}.Debug|Any CPU.ActiveCfg = Debug
+		{32F27F8E-64DA-40F8-881C-16008540D810}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
