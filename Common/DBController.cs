@@ -157,11 +157,13 @@ namespace Common {
                             SqlConnection conn2 = null;
                             SqlCommand cmd2 = null;
                             try {
+                                DateTime theDateTime = DateTime.Now;
+                                theDateTime = theDateTime.AddTicks(-(theDateTime.Ticks % TimeSpan.TicksPerSecond));
                                 conn2=new SqlConnection(CommonMethods.getConnectionString(ConfigurationManager.AppSettings["SROUpdateProvider"]));
                                 conn2.Open();
                                 cmd2=new SqlCommand("SRUpdateCalendarUpdate",conn2);
                                 cmd2.CommandType = CommandType.StoredProcedure;
-                                cmd2.Parameters.Add("@NewDate",SqlDbType.DateTime).Value=DateTime.Now;
+                                cmd2.Parameters.Add("@NewDate",SqlDbType.DateTime).Value=theDateTime;
                                 cmd2.ExecuteNonQuery();
                             } catch {
                             } finally {
